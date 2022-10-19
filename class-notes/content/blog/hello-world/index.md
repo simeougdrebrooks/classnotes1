@@ -1,7 +1,7 @@
 ---
 title:simeougdre's first blog
 date: "2015-05-01T22:12:03.284Z"
-description: "this is my first blog so i hope i did good
+description: "this is my first blog so i hope i did good        
 ---
 
 This is my first post on my new fake blog! How exciting!
